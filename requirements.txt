@@ -1,0 +1,8 @@
+robotframework
+robotframework-requests
+robotframework-seleniumlibrary
+requests
+selenium
+robotframework-browser
+robotframework-metrics
+robotframework-databaselibrary
